@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/alanrave/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/alanrave/LeetCode/tree/master/0402-remove-k-digits) |
+| [0443-string-compression](https://github.com/alanrave/LeetCode/tree/master/0443-string-compression) |
 ## Design
 |  |
 | ------- |
@@ -170,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/alanrave/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/alanrave/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/alanrave/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/alanrave/LeetCode/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
