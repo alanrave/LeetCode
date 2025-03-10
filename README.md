@@ -167,12 +167,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/alanrave/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/alanrave/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Stack
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/alanrave/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/alanrave/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0225-implement-stack-using-queues](https://github.com/alanrave/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0402-remove-k-digits](https://github.com/alanrave/LeetCode/tree/master/0402-remove-k-digits) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/alanrave/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Greedy
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/alanrave/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0443-string-compression](https://github.com/alanrave/LeetCode/tree/master/0443-string-compression) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/alanrave/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/alanrave/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
