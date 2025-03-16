@@ -11,10 +11,10 @@
  */
 class Solution {
 public:
-    TreeNode *first;
-    TreeNode *middle;
-    TreeNode *last;
-    TreeNode *prev;
+    TreeNode * first;
+    TreeNode * middle;
+    TreeNode * last;
+    TreeNode * prev;
     void inorder(TreeNode *root)
     {
         if(root==NULL)
@@ -28,21 +28,18 @@ public:
                 middle=root;
             }
             else
-            {
-                last=root;
-            }
+            last=root;
         }
         prev=root;
         inorder(root->right);
     }
     void recoverTree(TreeNode* root) {
-        first=last=middle=prev=NULL;
+        prev=first=last=middle=NULL;
         prev=new TreeNode(INT_MIN);
         inorder(root);
         if(first&&last)
         swap(first->val,last->val);
-        else if(first&&middle)
+        else
         swap(first->val,middle->val);
-
     }
 };
