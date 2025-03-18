@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/alanrave/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/alanrave/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/alanrave/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1036-rotting-oranges](https://github.com/alanrave/LeetCode/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/alanrave/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/alanrave/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Hash Table
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/alanrave/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/alanrave/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/alanrave/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1036-rotting-oranges](https://github.com/alanrave/LeetCode/tree/master/1036-rotting-oranges) |
 ## Sorting
 |  |
 | ------- |
@@ -231,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/alanrave/LeetCode/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/alanrave/LeetCode/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
