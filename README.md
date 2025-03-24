@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/alanrave/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/alanrave/LeetCode/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/alanrave/LeetCode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/alanrave/LeetCode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/alanrave/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/alanrave/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/alanrave/LeetCode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/alanrave/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/alanrave/LeetCode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/alanrave/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/alanrave/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -248,5 +250,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/alanrave/LeetCode/tree/master/0048-rotate-image) |
 | [1036-rotting-oranges](https://github.com/alanrave/LeetCode/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
