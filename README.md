@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/alanrave/LeetCode/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/alanrave/LeetCode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/alanrave/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/alanrave/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/alanrave/LeetCode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/alanrave/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/alanrave/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/alanrave/LeetCode/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/alanrave/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0542-01-matrix](https://github.com/alanrave/LeetCode/tree/master/0542-01-matrix) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/alanrave/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Tree
 |  |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/alanrave/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/alanrave/LeetCode/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/alanrave/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/alanrave/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/alanrave/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/alanrave/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/alanrave/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/alanrave/LeetCode/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/alanrave/LeetCode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/alanrave/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/alanrave/LeetCode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/alanrave/LeetCode/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
